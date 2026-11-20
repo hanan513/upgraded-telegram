@@ -1,0 +1,12 @@
+body{
+    background-color: #eeeeff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    background-color: aquamarine;
+    width:350px;
+    padding: 25px;
+    border-radius: 10px grey;
+    box-shadow: 10 px; 
+
+} 
